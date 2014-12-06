@@ -7,9 +7,23 @@
 //
 
 #include <iostream>
+using namespace std;
+
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+    int x;
+    x=6;
+    int y;
+    y=9;
+    
+    x = x+y;
+    y = x - y;
+    x = x - y;
+    
+    swap(x,y);
+    
+    
+    cout << x << endl << y << endl;
+    
     return 0;
 }

@@ -232,6 +232,7 @@
 				8F9467DC1A0CAC3C007668A8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
